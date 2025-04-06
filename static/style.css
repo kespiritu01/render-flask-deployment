@@ -9,7 +9,7 @@ body {
     padding: 0;
 }
 
-.form-container {
+.form-container, .result-container {
     background: #E4EFE7;
     padding: 20px 30px;
     border-radius: 10px;
